@@ -7,6 +7,6 @@ you cant change anything using this script (for eg : changing the name of the at
 
 modules you need for this script : 
 
-requests
-pyperclip
+requests,
+pyperclip,
 beautifulsoup
