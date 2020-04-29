@@ -28,7 +28,7 @@ def scrap(url):
                 print('''
                 Eg: 
                    b for <b> tag 
-                   a for <meta> tag \n''')
+                   a for <a> tag \n''')
                 que = input('-> ')
             
                 if que == 'a':
