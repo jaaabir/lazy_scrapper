@@ -13,7 +13,7 @@ beautifulsoup4
 
 SYNTAX : 
 
-python scrap.py <full url>
+python scrap.py [full url]
   
 or
 
