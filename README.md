@@ -9,4 +9,17 @@ modules you need for this script :
 
 requests,
 pyperclip,
-beautifulsoup
+beautifulsoup4
+
+SYNTAX : 
+
+python scrap.py <full url>
+  
+or
+
+python scrap.py (if the url of the page is copied)
+
+
+UPDATE : 
+
+[NEW] : creates a wordlist from specified url 
