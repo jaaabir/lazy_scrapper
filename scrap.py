@@ -55,8 +55,8 @@ def scrap(url):
 
                                 
                 texts = []
-
-                for p_tag in soup.find_all('p'):
+                tag = input('[+] Specify the tag to scrap : ')
+                for p_tag in soup.find_all(tag):
 
                     paras = p_tag.text
       
