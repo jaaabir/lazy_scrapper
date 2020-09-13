@@ -1,9 +1,7 @@
 # lazy_scrapper
-[+] it's a simple lazy web scrapper 
+[+] it's a simple web scrapper 
 
 NOTE : 
-
-you cant change anything using this script (for eg : changing the name of the attr)
 
 modules you need for this script : 
 
@@ -17,7 +15,7 @@ python scrap.py [full url]
   
 or
 
-python scrap.py (if the url of the page is copied)
+python scrap.py [copied url]
 
 
 UPDATE : 
